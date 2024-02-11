@@ -1,7 +1,7 @@
 <!--
 **ainabivi77/ainabivi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# My Goals
+# About me
 
 Hello  I'm Ainara, thank you for visiting my GitHub profile. Welcome! 
 
