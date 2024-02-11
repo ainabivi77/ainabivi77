@@ -17,13 +17,3 @@ Currently collaborating with cosmopol.io connecting people, products and process
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![ilya-pavlov-OqtafYT5kTw-unsplash](https://github.com/ainabivi77/ainabivi77/assets/152525176/7b4e9452-95e2-4ff1-b6f6-c96b77eda318)
-
-
-# 👩🏻‍💻 Programming Training
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![ilya-pavlov-OqtafYT5kTw-unsplash](https://github.com/ainabivi77/ainabivi77/assets/152525176/7b4e9452-95e2-4ff1-b6f6-c96b77eda318)
