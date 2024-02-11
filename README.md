@@ -1,15 +1,102 @@
-# About me
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <script src="https://kit.fontawesome.com/d499b2bcb0.js" crossorigin="anonymous"></script>
 
-<!--
-**ainabivi77/ainabivi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+    <style>
+        body {
+            background-color: lightgrey;
+        }
 
-Hello  I'm Ainara, thank you for visiting my GitHub profile. Welcome! 
+        .portafolio_wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            
+        }
 
-I'm deeply involved in intensive programming training, focusing on Full Stack Development at DevCamp, Bottega University.
+        img {
+            margin-top: 20px;
+            width: 100%;
+        }
 
-My main objective is to expand my coding knowledge and immerse myself in the minds of developers and along the way be able to enhance my own project.
-Currently collaborating with cosmopol.io connecting people, products and processes.
+        .welcome {
+            color: black;
+            font-family: 'Courier New', Courier, monospace;
+        }
 
+        .about {
+            font-family: 'Courier New', Courier, monospace;
+            text-decoration: underline;
+        }
+
+        .description {
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        .contact i {
+            margin-top: 20px;
+            
+        }
+
+        .goal {
+            font-family: 'Courier New', Courier, monospace;
+            text-decoration: underline
+        }
+
+       .text_goal {
+        font-family: 'Courier New', Courier, monospace;
+       }
+       
+    </style>
+</head>
+<body>
+    <div class="portafolio_wrapper">
+        <div class="welcome">
+            <h1>Hello! 👩🏻‍💻 I'm Ainara, thank you for visiting my GitHub profile.</h1>
+        </div>
+
+        <div class="about">
+            <h2>
+                About me
+            </h2>
+        </div>
+
+        <div class="description">
+            <h3>
+                I'm deeply involved in intensive programming training, focusing on Full Stack Development at DevCamp, Bottega University.
+            </h3>
+        </div>
+
+        <div class="goal">
+            <h2>
+                My Goals
+            </h2>
+        </div>
+
+        <div class="text_goal">
+            <h3>
+                My main goal is to expand my coding knowledge, immerse myself in the minds of developers and along the way I will try to enhance my own project. Currently collaborating with cosmopol.io "connecting people, products and processes".
+            </h3>
+        </div>
+
+        <div class="imagen">
+            <img src="ilya-pavlov-OqtafYT5kTw-unsplash.jpg" alt="">
+        </div>
+
+        <div class="contact">
+            <a href="https://www.linkedin.com/in/ainabivi/">
+            <i class="fa-brands fa-linkedin"></i>
+            </a>   
+        </div>
+    </div>
+</body>
+</html>
 
 # 👩🏻‍💻 Programming Training
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
