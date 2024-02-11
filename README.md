@@ -19,7 +19,3 @@ I'm deeply involved in intensive programming training, focusing on Full Stack De
 
 My main objective is to expand my coding knowledge and immerse myself in the minds of developers and along the way be able to enhance my own project.
 Currently collaborating with cosmopol.io connecting people, products and processes.
-![coda.io](https://www.cosmopol.io/)
-
-Contact me:
-![LinkedIn](https://www.linkedin.com/in/ainabivi/)
