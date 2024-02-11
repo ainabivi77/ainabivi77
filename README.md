@@ -1,6 +1,8 @@
 <!--
 **ainabivi77/ainabivi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+# About me
+
 Hello  I'm Ainara, thank you for visiting my GitHub profile. Welcome! 
 
 I'm deeply involved in intensive programming training, focusing on Full Stack Development at DevCamp, Bottega University.
@@ -10,6 +12,7 @@ Currently collaborating with cosmopol.io connecting people, products and process
 
 
 # 👩🏻‍💻 Programming Training
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
