@@ -20,4 +20,4 @@ I'm deeply involved in intensive programming training, focusing on Full Stack De
 My main objective is to expand my coding knowledge and immerse myself in the minds of developers and along the way be able to enhance my own project.
 Currently collaborating with cosmopol.io connecting people, products and processes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ainara-Bilbao?style=for-the-badge&logo=Linkedin&logoColor=white&label=LinkedIn&labelColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fainabivi%2F&link=right](https://www.linkedin.com/in/ainabivi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ainara-Bilbao?style=for-the-badge&logo=Linkedin&logoColor=white&label=LinkedIn&labelColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fainabivi%2F&link=right]
