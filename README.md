@@ -19,8 +19,3 @@ Currently collaborating with cosmopol.io connecting people, products and process
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![ilya-pavlov-OqtafYT5kTw-unsplash](https://github.com/ainabivi77/ainabivi77/assets/152525176/7b4e9452-95e2-4ff1-b6f6-c96b77eda318)
-
-
-My main objective is to expand my coding knowledge and immerse myself in the minds of developers and along the way be able to enhance my own project.
-Currently collaborating with cosmopol.io connecting people, products and processes.
-
