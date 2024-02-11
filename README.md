@@ -21,4 +21,4 @@ My main objective is to expand my coding knowledge and immerse myself in the min
 Currently collaborating with cosmopol.io connecting people, products and processes.
 
 contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)] (https://www.linkedin.com/in/ainabivi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ainabivi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)] (https://www.linkedin.com/in/ainabivi/)
