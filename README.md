@@ -7,6 +7,10 @@ Hello  I'm Ainara., and thank you for visiting my GitHub profile. Welcome!
 
 I'm deeply involved in intensive programming training, focusing on Full Stack Development at DevCamp, Bottega University.
 
+My main objective is to expand my coding knowledge and immerse myself in the minds of developers and along the way be able to enhance my own project.
+Currently collaborating with cosmopol.io connecting people, products and processes.
+
+
 # 👩🏻‍💻 Programming Training
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
