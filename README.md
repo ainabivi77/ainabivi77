@@ -5,6 +5,8 @@
 
 Hello  I'm Ainara, thank you for visiting my GitHub profile. Welcome! 
 
+# My Goals
+
 I'm deeply involved in intensive programming training, focusing on Full Stack Development at DevCamp, Bottega University.
 
 My main objective is to expand my coding knowledge and immerse myself in the minds of developers and along the way be able to enhance my own project.
